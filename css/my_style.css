@@ -46,3 +46,7 @@ header, footer {
 .underline {
     text-decoration: underline;
 }
+
+#indirizzo{
+    font-size: 0.7em;
+}
