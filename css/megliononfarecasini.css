@@ -2,3 +2,7 @@ p{
     position: relative;
     top: -1em;
 }
+
+#content{
+    text-transform: uppercase;
+}
