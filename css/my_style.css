@@ -2,7 +2,7 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     font-family: "Heiti TC", serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -15,7 +15,6 @@ img {
 }
 
 main {
-    display: flex;
     flex-direction: column;
     align-items: center;
     flex: 1;
@@ -33,7 +32,7 @@ header, footer {
 
 #content {
     font-weight: bold;
-    margin-bottom: 10%;
+    margin-bottom: 2em;
 }
 
 #date {
@@ -53,7 +52,7 @@ header, footer {
 
 #indirizzo{
     position: relative;
-    top: -10px;
+    top: -50px;
     font-size: 0.7em;
 }
 
